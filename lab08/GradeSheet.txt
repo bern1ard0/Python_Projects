@@ -1,0 +1,36 @@
+GRADE SHEET FOR CS134 LAB 8 ("Auto(Complete)"):
+
+Task 1: FreqWord class
+    * __init__ works as expected
+    * getters for slots are correctly implemented
+    * __str__ is correctly implemented
+    * hasPrefix is correctly implemented
+    * passes all tests
+
+Task 2: Result Class
+    * __init__ works as expected
+    * __str__ is correctly implemented
+    * passes all tests
+
+Task 3: Autocomplete Class
+    * __init__ works as expected
+    * __str__ is correctly implemented
+    * _matchWords is correctly implemented for finding prefixes
+    * suggestCompletions uses _matchWords helper method
+    * suggestCompletions is correctly implemented
+    * uses methods and contructors for FreqWord and Result appropriately
+    * passes all tests
+
+Task 4: Matching Patterns Instead of Prefixes
+    * matchPattern in FreqWord class works correctly.
+    * _matchWords in AutoComplete class handles wild card criteria
+    * passes all tests
+
+Extra Credit
+    * extended program past basic requirements:
+
+
+Grade:
+
+
+Comments from Graders:

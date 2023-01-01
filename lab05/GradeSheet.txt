@@ -1,0 +1,16 @@
+GRADE SHEET FOR CS134 LAB 5 ("Debugging"):
+     
+Requirements of this lab:
+   1. Debugging of swedishpuzzle.py
+      * Removal of syntax errors to allow correct execution
+      * Identify corrected lines with #FIXED
+   2. Debugging of vowelacious.py
+      * Provide 6 strings at top of file
+      * Fill in TODO docstring comment with description of logic error
+      * Correct implementation of isVowelacious
+
+    
+Grade:   
+
+
+Comments from Graders: 

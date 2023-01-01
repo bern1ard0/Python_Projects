@@ -1,0 +1,51 @@
+GRADE SHEET FOR CS134 LAB 7 ("Recursion!"):
+
+    Warm-up Task: sumDigits
+          * passes all doctests
+          * has an explicit base case and correctly handles it 
+          * correctly handles recursive call
+          * the implementation is fully recursive; no loops are found
+          * int not converted to str
+          * clean and interpretable code with comments
+    Task 1: bedtime
+          * passes all doctests
+          * correct calls to firstSentence and lastSentence
+          * has an explicit base case 
+          * the implementation is fully recursive; no loops are found
+          * clean and interpretable code with comments
+          * one additional doctest is provided
+    Task 2: squares
+          * drawSquares-400-20.ps found and looks good
+          * drawNestedSquares(400, 20, PURPLE, WHITE) actually generates figure
+          * drawNestedSquares calls drawSquare once
+          * drawNestedSquares uses only the allowed turtle commands
+          * drawNestedSquares uses color1, color2 rather than GOLD, PURPLE
+          * the implementation is fully recursive; no loops
+          * clean and interpretable code with comments
+    Task 3: quilt
+          * drawQuilt-500-4.ps found and looks good
+          * drawQuilt(500, 4, PURPLE, GOLD) actually generates figure
+          * drawQuilt calls drawSquare once
+          * drawQuilt uses only the allowed turtle commands
+          * drawQuilt uses color1, color2 rather than GOLD, PURPLE
+          * the implementation is fully recursive; no loops are found
+          * clean and interpretable code with comments
+    Task 4: shrub
+          * shrub-100-15-0.8-10.ps found and looks good
+          * drawShrub(100, 15, 0.8, 10) actually generates figure
+          * drawShrub(100, 15, 0.8, 10) prints (232, 3973.9861913600025)
+          * shrub uses only the allowed turtle commands
+          * the implementation is fully recursive; no loops are found
+          * clean and interpretable code with comments
+    Extra credit: fancy
+          * produces correct output (figure and text)
+          * drawFancySquares uses only the allowed turtle commands
+          * the implementation is fully recursive; no loops are found
+          * clean and interpretable code with comments
+
+
+Grade:
+
+
+Comments from Graders:
+

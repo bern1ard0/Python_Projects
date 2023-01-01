@@ -1,0 +1,8 @@
+GRADE SHEET FOR CS134 LAB 10 ("Selection Sort in Java"):
+
+* SelectionSort.java compiles
+* SelectionSort.java runs without any errors
+* SelectionSort.java correctly formats output
+* selectionSort method correctly sorts
+
+Grade: 

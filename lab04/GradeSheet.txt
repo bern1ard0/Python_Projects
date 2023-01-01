@@ -1,0 +1,29 @@
+GRADE SHEET FOR CS134 LAB 4 ("Voting Rules Matter"):
+
+Requirements of this lab:
+   Part 1: Plurality and Borda Voting
+      * Module documentation string ('''...''' at top of file)
+      * Meaningful docstrings for each function
+      * At least two doctests to test each function
+      * Code does not use unnecessary loops or nested code blocks
+      * Code makes good use of variable names, and is clear and readable
+      * Comments are appropriately used to explain hard-to-follow logic
+      * Each function has a default return type that matches its docstring
+      * Passes our unit tests
+
+   Part 2: Ranked Choice Voting
+      * Makes use of helper methods in voting.py as much as possible
+      * Code does not use unnecessary loops or nested code blocks
+      * Code makes good use of variable names, and is clear and readable
+      * Comments are appropriately used to explain hard-to-follow logic
+      * Each function has a default return type that matches its docstring
+      * Passes our unit tests
+      * Extra credit:  Condorcet winner function correctly implemented
+
+   Overall:
+      * Used at least one list comprehension in voting.py or election.py
+
+Grade:
+
+Comments from Graders:
+

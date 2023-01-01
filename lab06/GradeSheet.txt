@@ -1,0 +1,32 @@
+GRADE SHEET FOR CS134 LAB 6 ("Analyzing Precedent in the Supreme Court")
+
+Requirements of this lab:
+   The citation analysis tools (scotus.py)
+      # readDecisions:
+        * returns the correct type (dictionary mapping ints to tuples)
+      	* passes unit tests (see below, and comments)
+      # hIndex:
+        * returns an integer
+      	* added two new doctests
+      	* passes all tests (see below, and comments)
+      # plotImpacts:
+        * organizes data by increasing year
+      	* generates informative labels
+      	* plots data correctly
+      # readCourts:
+        * generates correct mapping (justice name to term docket)
+      # rankJustices:
+        * sorts correctly, by decreasing h-index
+      # main block:
+        * generates correct results
+      # general:
+        * written in a clear and readable manner
+        * comments on hard-to-understand code
+
+Grade:
+
+
+Comments from Graders:
+
+
+Results from testing:

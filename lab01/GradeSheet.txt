@@ -1,0 +1,20 @@
+GRADE SHEET FOR CS134 LAB 1
+
+Welcome to Computer Science!
+     
+Requirements of this lab
+  1. Completed a first program
+      * hello.py prints "hello, world!" message
+      * comment at top
+  2. Created a new program to input two numbers and print sum
+      * goodbye.py added 
+      * program inputs numbers correctly
+      * program computes and prints their sum
+  3. Completed an AboutMe.txt
+      * a few sentences about you
+      * a few sentences about your hometown
+      * a great place to eat
+      
+Grade:    
+
+Comments from Graders:
